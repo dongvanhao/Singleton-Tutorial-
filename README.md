@@ -1,0 +1,2 @@
+1. Sigleton đảm bảo chi có 1 ConfigurationManager duy nhất, không tạo cấu hình nhiều cần giúp giảm tải hệ thống.mọi thành phần trong ứng dụng đều dùng chung 1 cấu hình duy nhất nên đảm bảo tính nhất quán
+2. Nếu không sử dụng Singleton, mỗi lần gọi API, hệ thống sẽ tạo ra một configurationManager mới. điều này gây lãng phí tài nguyên vì mỗi lần gọi API sẽ đọc lại dữ liệu từ file hoặc database. không nhất quán vì nếu cấu hình thay đổi, mỗi instance có thể có giá trị khác nhau

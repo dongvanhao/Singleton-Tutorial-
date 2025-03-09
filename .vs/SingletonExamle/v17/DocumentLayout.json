@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\SingletonExamle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{407BE51B-38FF-4B9C-A430-5C3343415806}|SingletonExamle\\SingletonExamle.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\singletonexamle\\singletonexamle\\service\\configurationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{407BE51B-38FF-4B9C-A430-5C3343415806}|SingletonExamle\\SingletonExamle.csproj|solutionrelative:singletonexamle\\service\\configurationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407BE51B-38FF-4B9C-A430-5C3343415806}|SingletonExamle\\SingletonExamle.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\singletonexamle\\singletonexamle\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{407BE51B-38FF-4B9C-A430-5C3343415806}|SingletonExamle\\SingletonExamle.csproj|solutionrelative:singletonexamle\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407BE51B-38FF-4B9C-A430-5C3343415806}|SingletonExamle\\SingletonExamle.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\singletonexamle\\singletonexamle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{407BE51B-38FF-4B9C-A430-5C3343415806}|SingletonExamle\\SingletonExamle.csproj|solutionrelative:singletonexamle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{407BE51B-38FF-4B9C-A430-5C3343415806}|SingletonExamle\\SingletonExamle.csproj|c:\\users\\dongv\\onedrive\\m\u00E1y t\u00EDnh\\c#\\hocc#\\tuluyenapi\\singletonexamle\\singletonexamle\\controllers\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{407BE51B-38FF-4B9C-A430-5C3343415806}|SingletonExamle\\SingletonExamle.csproj|solutionrelative:singletonexamle\\controllers\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 308,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\SingletonExamle\\SingletonExamle\\Program.cs",
+              "RelativeDocumentMoniker": "SingletonExamle\\Program.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\SingletonExamle\\SingletonExamle\\Program.cs",
+              "RelativeToolTip": "SingletonExamle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T13:36:07.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigController.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\SingletonExamle\\SingletonExamle\\Controllers\\ConfigController.cs",
+              "RelativeDocumentMoniker": "SingletonExamle\\Controllers\\ConfigController.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\SingletonExamle\\SingletonExamle\\Controllers\\ConfigController.cs",
+              "RelativeToolTip": "SingletonExamle\\Controllers\\ConfigController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T13:35:58.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\SingletonExamle\\SingletonExamle\\Service\\OrderService.cs",
+              "RelativeDocumentMoniker": "SingletonExamle\\Service\\OrderService.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\SingletonExamle\\SingletonExamle\\Service\\OrderService.cs",
+              "RelativeToolTip": "SingletonExamle\\Service\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T13:34:46.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfigurationManager.cs",
+              "DocumentMoniker": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\SingletonExamle\\SingletonExamle\\Service\\ConfigurationManager.cs",
+              "RelativeDocumentMoniker": "SingletonExamle\\Service\\ConfigurationManager.cs",
+              "ToolTip": "C:\\Users\\dongv\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\HocC#\\TuluyenAPI\\SingletonExamle\\SingletonExamle\\Service\\ConfigurationManager.cs",
+              "RelativeToolTip": "SingletonExamle\\Service\\ConfigurationManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wBAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T13:31:42.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 297,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
